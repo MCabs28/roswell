@@ -1,0 +1,52 @@
+.card-client {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+
+.card-client > img{
+    width: 100%;
+} 
+
+
+  .title {
+    color: grey;
+    font-size: 15px;
+    margin-top: -20px;
+  }
+
+  .name{
+    font-size: 17px;
+    margin-top: 10px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: var(--neutral-dark-blue);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 12px;
+  }
+
+  .social-m{
+    margin: 24px 0;
+  }
+
+  .social-m > a{
+    margin-right:5px ;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: var(--neutral-dark-blue);
+  }
+  
+ 
