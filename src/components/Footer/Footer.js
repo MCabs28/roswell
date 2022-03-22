@@ -112,7 +112,7 @@ function Footer() {
                 </div>
 
                 <small className='website-rights'>
-                    Roswell Hotel &copy; 2022
+                    Roswell Hotel &copy; {new Date().getFullYear()}
                 </small>
 
             </div>
