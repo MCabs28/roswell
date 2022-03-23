@@ -15,7 +15,7 @@ function Navbar() {
         <div className='navbar-container'>
 
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-            <i className="fas fa-hotel"></i> &nbsp;Roswell Hotel
+            <i className="fas fa-hotel"></i>&nbsp;Roswell
           </Link>
 
 
